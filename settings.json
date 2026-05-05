@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "polishguy19.aternos.me",
+    "ip": "polishguy19.aternos.me:55097",
     "port": 55097,
     "version": "1.21.1"
   },
